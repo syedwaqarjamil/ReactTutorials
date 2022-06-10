@@ -1,0 +1,6 @@
+React Project Steps
+1. Install VSCode
+2. Install Nodejs
+3. Check node -v and npm -v on terminal
+4. npm i -g create-react-app
+5. create-react-app projectName

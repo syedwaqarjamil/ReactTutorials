@@ -1,0 +1,65 @@
+node js 
+
+and run 2,3 commands 
+
+react is libray 
+
+angular is framework in which we follow specific patterns we follows anugalar rules
+
+methods
+=========
+node js 
+version check 
+react app installtion globally 
+react app project name 
+
+
+
+
+class 2 
+
+package . json    tells projects name,version ,biography and most important dependencies 
+
+
+
+>> react fb image grid 
+>> sweet alert 
+
+
+note :>>
+node modules has many folder due to dependencies of libray like react uses many other libraries
+like sweet alert also uses other libraries like css and js 
+ 
+
+vcs = version controlling system 
+
+note >> never send node modules on git but install npm will install all dependencies
+
+
+gitignore file >>> 
+
+package.json records all dependencies and libraries have been installed 
+
+
+
+src>> 
+
+
+
+function is app component 
+
+  jsx  javascript xml 
+  
+
+app.js 
+index.js 
+public >> index.html 
+
+
+
+render means display 
+
+array of objects [{},{},{}]
+
+
+
